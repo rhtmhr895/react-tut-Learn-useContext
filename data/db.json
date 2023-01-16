@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "My First Post",
-      "datetime": "Jan 12, 2023 14:46:53 PM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
       "id": 2,
       "title": "My Second Post",
       "datetime": "Jan 12, 2023 14:46:53 PM",
@@ -23,6 +17,12 @@
       "title": "My Fourth",
       "datetime": "January 13, 2023 11:37:51 AM",
       "body": "Four...."
+    },
+    {
+      "id": 5,
+      "title": "Test post Jan 16 2023",
+      "datetime": "January 16, 2023 10:35:41 AM",
+      "body": "This is a test post written on 16 Jan 2023."
     }
   ]
 }
