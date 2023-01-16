@@ -8,7 +8,8 @@ import { Routes, Route } from 'react-router-dom';
 import EditPost from './components/EditPost';
 import { DataProvider } from './context/DataContext';
 
-function App() { 
+                                                    
+function App() {
   return (
     <DataProvider>
     <Routes>
@@ -24,8 +25,6 @@ function App() {
         </Route>
       </Routes>
     </DataProvider>
-
-
 
   );
 }
